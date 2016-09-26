@@ -1,1 +1,2 @@
 # C-Final-Interest
+This a program designed to calculate compoud interest. The user enters a yearly amount, such as a year end bonus or a tax refund. This amount would be entered into an account, and each year the process would be repeated. The program will display the growth of the investment at 2% - 12% every 5 years, for 5 - 40 years. After the first input is run a second value could be run and will be saved on the same chart.
